@@ -1,2 +1,4 @@
-Playing badminton
-Baking                  
+- playing badminton 
+- baking 
+        - Cakes
+        - Spicy food 
